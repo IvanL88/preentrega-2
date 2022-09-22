@@ -1,2 +1,2 @@
-# preentrega-2
-Preentrega 2 Coder
+# Pre entrega 2
+Iván Lizarazu
